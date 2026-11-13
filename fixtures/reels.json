@@ -1,0 +1,7 @@
+{
+  "reels": [
+    {"name": "12A", "path": "media/12A.wav", "start_tc": "00:01:00:00", "drop_frame": false},
+    {"name": "9B", "path": "media/9B.wav", "start_tc": "00:02:08:00", "drop_frame": false},
+    {"name": "24A", "path": "media/24A.wav", "start_tc": "00:00:00:00", "drop_frame": false, "pulldown": "24->30"}
+  ]
+}
